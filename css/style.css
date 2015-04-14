@@ -1,0 +1,17 @@
+#layers {
+	position: relative;
+	margin: 0 auto;
+}
+
+#layers canvas {
+	position: absolute;
+}
+
+#compteur {
+	z-index: 1;
+}
+
+#vitesse {
+	z-index: 2;
+	
+}
